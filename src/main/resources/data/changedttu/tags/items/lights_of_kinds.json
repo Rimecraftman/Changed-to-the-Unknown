@@ -1,0 +1,9 @@
+{
+	"replace": "false",
+	"values": [
+		"minecraft:block/torch",
+		"minecraft:block/soul_torch",
+		"minecraft:block/glowstone",
+		"changedttu:block/gleam_cleat"
+	]
+}

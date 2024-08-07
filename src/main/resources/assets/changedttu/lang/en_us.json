@@ -1,7 +1,11 @@
 {
-     "itemGroup.tab_things": "CTTU Items",
+     "itemGroup.bred_changedttu_things": "CTTU Items",
+     "itemGroup.bred_changedttu_cleats": "CTTU Blocks",
+     "itemGroup.bred_changedttu_fighting": "CTTU Combat",
+     "itemGroup.bred_changedttu_tools": "CTTU Tools",
 
      "block.changedttu.gleam_cleat": "Glow Block",
+     "block.changedttu.uw_hc_oak": "Vertical Oak Slab",
 
      "item.changedttu.furthered_thing": "Light Item",
      "item.changedttu.steel_ingot": "Steel Ingot",
@@ -15,6 +19,12 @@
      "item.changedttu.are_axe": "Copper Axe",
      "item.changedttu.are_shovel": "Copper Shovel",
      "item.changedttu.are_tiller": "Copper Hoe",
+     "item.changedttu.are_helm": "Copper Helmet",
+     "item.changedttu.are_breastdish": "Copper Chestplate",
+     "item.changedttu.are_hosen": "Copper Leggings",
+     "item.changedttu.are_shoes": "Copper Boots",
      "item.changedttu.threem": "3 Dimensions",
-     "item.changedttu.twom": "2 Dimensions"
+     "item.changedttu.twom": "2 Dimensions",
+     "item.changedttu.yellowred_ooze": "Orange Juice",
+     "item.changedttu.rind_food": "Rind Fuel"
 }

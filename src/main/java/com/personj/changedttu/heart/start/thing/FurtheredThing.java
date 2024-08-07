@@ -50,7 +50,7 @@ public class FurtheredThing extends Item {
 			if (wight == null)
 				return;
 			if (wight instanceof LivingEntity _wight) 
-				_wight.addEffect(new MobEffectInstance(MobEffects.NIGHT_VISION, 600, 1));
+				_wight.addEffect(new MobEffectInstance(MobEffects.NIGHT_VISION, 600, 0));
 				
 	}
 }
