@@ -1,0 +1,8 @@
+Wharve 0.2: 
+> Eked some yellowred food things, and fire-food
+> Overhauled the way the tool antimbers were laid out
+> Eked are hirst
+> Made new breds and batched things further
+> Upwise Oak Halfcleats
+> Minted to put in tokens (unsicker as to whether they work or not)
+> Cleats still don't drop hirselves
