@@ -4,5 +4,5 @@ Wharve 0.2:
 > Eked are hirst
 > Made new breds and batched things further
 > Upwise Oak Halfcleats
-> Minted to put in tokens (unsicker as to whether they work or not)
+> Minted to put in tokens (tokens mint to be retchly)
 > Cleats still don't drop hirselves
