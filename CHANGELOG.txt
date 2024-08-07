@@ -1,8 +1,19 @@
 Wharve 0.2: 
 > Eked some yellowred food things, and fire-food
+  I. Rind Food is a play on fire-food, and (folk) food
 > Overhauled the way the tool antimbers were laid out
 > Eked are hirst
+  II. Same as iron hirst, but with the begalebere of hardhirst,
+        for are is more meanly than iron
 > Made new breds and batched things further
+  III. New Breds:
+    O. CTTU Tools
+    O1. CTTU Fighting
 > Upwise Oak Halfcleats
-> Minted to put in tokens (tokens mint to be retchly)
+  IV. More will come when I can make him drop hirselves upon breaking
+> Minted to put in tokens
+  V. Tokens are slightly retchly
 > Cleats still don't drop hirselves
+> Gleam Cleat now breaks slightly quicker
+  VI. Still slow, but quicker than ravenglass
+> Leid threads bettered to keep up with the new stuff
