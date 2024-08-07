@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "changedttu:block/uw_hc_oak", "y":0},
+        "facing=west": { "model": "changedttu:block/uw_hc_oak", "y":270},
+        "facing=south": { "model": "changedttu:block/uw_hc_oak", "y":180},
+        "facing=east": { "model": "changedttu:block/uw_hc_oak", "y":90}
+    }
+}
