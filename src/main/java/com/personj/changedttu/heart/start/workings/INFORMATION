@@ -1,0 +1,6 @@
+This package has been deprecated within dev builds.
+Anything put in here should be commented out and looked back on as an example
+of how to achieve a given effect.
+
+Workings:
+EkeLibRineNS - Gives the player Night Vision on item use.

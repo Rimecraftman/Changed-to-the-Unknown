@@ -1,0 +1,20 @@
+{
+     "itemGroup.tab_things": "CTTU Items",
+
+     "block.changedttu.gleam_cleat": "Glow Block",
+
+     "item.changedttu.furthered_thing": "Light Item",
+     "item.changedttu.steel_ingot": "Steel Ingot",
+     "item.changedttu.steel_sword": "Steel Sword",
+     "item.changedttu.steel_pike": "Steel Pickaxe",
+     "item.changedttu.steel_axe": "Steel Axe",
+     "item.changedttu.steel_shovel": "Steel Shovel",
+     "item.changedttu.steel_tiller": "Steel Hoe",
+     "item.changedttu.are_sword": "Copper Sword",
+     "item.changedttu.are_pike": "Copper Pickaxe",
+     "item.changedttu.are_axe": "Copper Axe",
+     "item.changedttu.are_shovel": "Copper Shovel",
+     "item.changedttu.are_tiller": "Copper Hoe",
+     "item.changedttu.threem": "3 Dimensions",
+     "item.changedttu.twom": "2 Dimensions"
+}

@@ -1,0 +1,30 @@
+modLoader="javafml" 
+loaderVersion="[40,)"
+license="MIT"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+[[mods]]
+modId="changedttu"
+version="1.0"
+displayName="Changed to the Unknown"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="likle.png"
+credits="LtxProgrammer (Original Author of the Changed MC Mod), DragonSnow (Original maker of the Changed games)"
+authors="PersonJ"
+description='''
+A furthering of the original Changed MC Mod with some more things from the game it's based off of, 
+and some new things I thought would be neat.
+'''
+[[dependencies.changedttu]]
+    modId="changed"
+    mandatory=true
+    versionRange="[0.13.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.changedttu]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
