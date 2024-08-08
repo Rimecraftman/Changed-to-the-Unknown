@@ -23,13 +23,7 @@ public class FurtheredThing extends Item {
 	@Override
 	public InteractionResultHolder<ItemStack> use(Level world, Player player, InteractionHand hand) {
 		InteractionResultHolder<ItemStack> see = super.use(world, player, hand);
-		ItemStack itemstack = see.getObject();
-		player.getCooldowns().addCooldown(this, 1200);
-		double x = player.getX();
-		double y = player.getY();
-		double z = player.getZ();
-		
-		execute(player);
+		run(player);
 		
 		return see;
 		}
@@ -39,14 +33,14 @@ public class FurtheredThing extends Item {
 			if (hap.getHand() != hap.getPlayer().getUsedItemHand()) 
 				return;
 			
-			execute(hap, hap.getPlayer());
+			run(hap, hap.getPlayer());
 		}
 		
-		public static void execute(Entity wight) {
-			execute(null, wight);
+		public static void run(Entity wight) {
+			run(null, wight);
 		}
 		
-		private static void execute(@Nullable RightClickItem hap, Entity wight) {
+		private static void run(@Nullable RightClickItem hap, Entity wight) {
 			if (wight == null)
 				return;
 			if (wight instanceof LivingEntity _wight) 

@@ -5,10 +5,8 @@ import net.minecraft.world.item.Item;
 
 public class YellowredOoze extends Item {
 
-	public YellowredOoze(Properties aughts) {
-		super(aughts);
-
-	}
+	public YellowredOoze(Properties aughts) {super(aughts);}
+	
 	@Override
 	public SoundEvent getDrinkingSound() {
 		return super.getDrinkingSound();

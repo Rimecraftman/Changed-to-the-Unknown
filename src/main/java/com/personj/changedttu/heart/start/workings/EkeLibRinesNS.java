@@ -2,8 +2,8 @@
   * @Deprecated
   * THIS WORKING HAS BEEN FORNIMEN ON THE GROUNDS THAT IT IS NOT ONEFOLDLY (IT WILL MAKE ANY THING DO THIS IF THE PLAYER'S HAND ISN'T EMPTY).
   * Code is run through run(wight);*/
-/*package com.personj.changedttu.heart.start.workings;
-
+package com.personj.changedttu.heart.start.workings;
+/*
 import javax.annotation.Nullable;
 
 import net.minecraft.world.effect.MobEffectInstance;

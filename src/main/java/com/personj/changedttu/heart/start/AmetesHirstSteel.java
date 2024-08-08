@@ -10,6 +10,7 @@ import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.crafting.Ingredient;
 
+@SuppressWarnings("deprecation")
 public enum AmetesHirstSteel implements ArmorMaterial{
 
 	STEEL(ChangedtotheUnknown.MODID + ":steel", 33, new int[] {3, 8, 6, 3}, 14, SoundEvents.ARMOR_EQUIP_DIAMOND, 8.0f, 0.2f,

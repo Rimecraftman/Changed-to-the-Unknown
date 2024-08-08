@@ -11,6 +11,7 @@ import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
 
+@SuppressWarnings("deprecation")
 public enum AmetesHirstAre implements ArmorMaterial{
 	ARE(ChangedtotheUnknown.MODID + ":are", 5, new int[] {2, 5, 6, 2}, 10, SoundEvents.ARMOR_EQUIP_IRON, 0.0f, 0.0f,
 			()-> {return Ingredient.of(Items.COPPER_INGOT);});
