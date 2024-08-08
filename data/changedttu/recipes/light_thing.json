@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "changedttu:twom"
+    },
+    {
+      "item": "changedttu:gleam_cleat"
+    }
+  ],
+  "result": {
+    "item": "changedttu:furthered_thing"
+  }
+}

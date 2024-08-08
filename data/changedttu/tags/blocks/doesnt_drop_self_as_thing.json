@@ -1,0 +1,8 @@
+{
+	"replace": "false",
+	"values": [
+		"changedttu:block/gleam_cleat",
+		"changedttu:block/uw_hc_oak",
+		"minecraft:block/iron_ore"
+	]
+}
