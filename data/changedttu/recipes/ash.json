@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "changedttu:rind_food"
-    },
-    "result": "changedttu:ash",
-    "experience": 0.2,
-    "cookingtime": 200
-}
