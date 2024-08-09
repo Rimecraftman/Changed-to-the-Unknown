@@ -6,7 +6,7 @@ Wharve 0.3.1:
 Wharve 0.3:
 > Eked Ash
   I. Does nothing, but happens if you're not yielding mind to what you burn
-> Eked Knowledge for making things from this tweaking
+> Eked Knowledge for making more tools from this tweaking
   II. Not everything has knowledge mingled with it
 > Eked drawings
 > Eked Steel Hirst
@@ -19,6 +19,9 @@ Wharve 0.3:
     OI. Evenledged to not be too overmighty, more evenledgings will come, along with more knowledge
 > Wharved the lite of the Changed Yellowred
   VI. Less retchly, but this time looks like the Yellowred Rinds & Yellowred Ooze would/could come from it
+> Wharved the name of Rind Food to be Yellowred Rinds
+  VII. The dern still calls it rind_food
+> Gave the 3 Metings and 2 Metings a meaning
 
 ------------------------------------------------------------------------
 
@@ -41,3 +44,19 @@ Wharve 0.2:
 > Gleam Cleat now breaks slightly quicker
   VI. Still slow, but quicker than ravenglass
 > Leid threads bettered to keep up with the new stuff
+> Eked a wight lite for toward anyets
+
+------------------------------------------------------------------------------
+
+Wharve 0.1:
+The first wharve.
+
+> Readied the tweaking for more things to come
+> Eked Gleam Cleat
+  I. Gives off more light than a thackle does
+  II. Three metingly cleat
+> Eked Light Thing
+  III. Gives the player Night Sight when brooked
+> Eked Steel and Are tools
+> Eked Are Hirst
+> Eked Steel Tools (Hirst Not Yet In (NYI))
