@@ -1,3 +1,8 @@
+
+Wharve 0.3.1:
+> Eked JEI kindredness
+  I. This has taken almost all day, for JEI hates being a dependency.
+
 Wharve 0.3:
 > Eked Ash
   I. Does nothing, but happens if you're not yielding mind to what you burn
