@@ -92,36 +92,3 @@ dependencies {
         "net.ltxprogrammer.changed:Changed-m1.18.2-f40.2.0:v0.13.1"
     )
 }
-
-jar {
-    manifest {
-        attributes([
-                "Specification-Title"     : "Changed to the Unknown",
-                "Specification-Vendor"    : "PersonJ",
-                "Specification-Version"   : "1",
-                "Implementation-Title"    : project.name,
-                "Implementation-Version"  : project.jar.archiveVersion,
-                "Implementation-Vendor"   : "PersonJ",
-                "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
-        ])
-    }
-}
-
-jar.finalizedBy('reobfJar')
-
-publishing {
-    publications {
-        mavenJava(MavenPublication) {
-            artifact jar
-        }
-    }
-    repositories {
-        maven {
-            url "file://${project.projectDir}/mcmodsrepo"
-        }
-    }
-}
-
-tasks.withType(JavaCompile).configureEach {
-    options.encoding = 'UTF-8'
-}
