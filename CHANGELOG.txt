@@ -1,3 +1,41 @@
+Wharve 0.4:
+
+> Cleats now drop hir meads
+
+> Ednamed furthered_thing to light_thing to match the in-game name for it
+
+> More Knowledge
+
+> Eked Wights
+	I. Ith wights will have to bide until the next time, as while minting to put one in, the game freaked out. I will need more knowledge to fettle this.
+
+> More Drawings
+
+> Got undertokens
+
+> Batched things so that the lists aren't all a mess
+
+> More Chapman work eked
+
+	II. New cheaps also eked
+
+> Sways eked, not set
+
+> More Upwise Halfcleats
+	III. All brook the former "UpwiseHalfcleatOak.java" as a frame to build on
+	IV. "UpwiseHalfcleatOak.java" ednamed to "UpwiseHalfcleat.java" to glass that 'oak' is no longer the only kind of upwise halfcleat
+
+> Ith Feeler eked as a "blossom"
+
+> Eked buildings
+	V. Only one (1) for now
+
+> As a yanthing to the bettering for the ground tweaking, this ekeing ekes uphold for the Changed MC Mod wharve 0.14
+
+> Tweaking ednamed to Swylk Swa, the Old English wordset for "as if" or "just as"
+	VI. By the time of first alease, I forelay to anwarden all nemmings to acknow this new name. The name was swapped out, as I have chosen that my anyets for this tweaking go beyond the first anyets for this tweaking, and I am shifting work towards this new end.
+
+------------------------------------------------------------------------
 
 Wharve 0.3.1:
 > Eked JEI kindredness
