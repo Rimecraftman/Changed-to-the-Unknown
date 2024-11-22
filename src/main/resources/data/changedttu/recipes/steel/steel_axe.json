@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "#X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "changedttu:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "changedttu:steel_axe"
+  }
+}

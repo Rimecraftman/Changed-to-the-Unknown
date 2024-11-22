@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "changedttu:twom"
+      "item": "changedttu:threem"
     },
     {
-      "item": "changedttu:gleam_cleat"
+      "item": "changedttu:light_thing"
     }
   ],
   "result": {
-    "item": "changedttu:light_thing"
+    "item": "changedttu:gleam_cleat"
   }
 }

@@ -5,20 +5,19 @@ license="MIT"
 [[mods]]
 modId="changedttu"
 version="1.0"
-displayName="Changed to the Unknown"
+displayName="Swylk Swa"
 #updateJSONURL="https://change.me.example.invalid/updates.json"
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
-logoFile="likle.png"
-credits="LtxProgrammer (Original Author of the Changed MC Mod), DragonSnow (Original maker of the Changed games)"
+logoFile="cttu_likle.png"
+credits="LtxProgrammer (Original Author of the Changed MC Mod)"
 authors="PersonJ"
 description='''
-A furthering of the original Changed MC Mod with some more things from the game it's based off of, 
-and some new things I thought would be neat.
+The near-raw madness of Anglish, and the near-unfetteredness of my own wants.
 '''
 [[dependencies.changedttu]]
     modId="changed"
     mandatory=true
-    versionRange="[0.13.1]"
+    versionRange="[0.13.1, 0.14]"
     ordering="NONE"
     side="BOTH"
 
