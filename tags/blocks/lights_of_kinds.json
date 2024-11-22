@@ -1,9 +1,0 @@
-{
-	"replace": "false",
-	"values": [
-		"minecraft:torch",
-		"minecraft:soul_torch",
-		"minecraft:glowstone",
-		"changedttu:gleam_cleat"
-	]
-}
