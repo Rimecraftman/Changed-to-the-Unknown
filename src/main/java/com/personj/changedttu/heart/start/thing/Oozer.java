@@ -17,4 +17,9 @@ public class Oozer extends Item {
 		getCraftingRemainingItem();
 		return super.use(p_41432_, p_41433_, p_41434_);
 	}
+	
+	@Override
+	public boolean hasCraftingRemainingItem() {
+		return true;
+	}
 }

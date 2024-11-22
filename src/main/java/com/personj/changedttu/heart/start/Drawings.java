@@ -15,4 +15,8 @@ public class Drawings {
 			()-> new Motive(32, 32));
 	public static final RegistryObject<Motive> THE_ASKER = DRAWINGS.register("the_asker", 
 			()-> new Motive(32, 16));
+	public static final RegistryObject<Motive> ANGINN_S = DRAWINGS.register("anginn_s", 
+			()-> new Motive(32, 16));
+	public static final RegistryObject<Motive> ANGINN_G = DRAWINGS.register("anginn_g", 
+			()-> new Motive(48, 32));
 }

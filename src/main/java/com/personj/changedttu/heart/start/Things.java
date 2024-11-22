@@ -1,6 +1,9 @@
 package com.personj.changedttu.heart.start;
 
 import com.personj.changedttu.ChangedtotheUnknown;
+import com.personj.changedttu.heart.start.antimber.AmetesHirstAre;
+import com.personj.changedttu.heart.start.antimber.AmetesHirstSteel;
+import com.personj.changedttu.heart.start.antimber.AmetesTool;
 import com.personj.changedttu.heart.start.thing.AmarkBat;
 import com.personj.changedttu.heart.start.thing.AmarkHeart;
 import com.personj.changedttu.heart.start.thing.AmarkShovel;
@@ -14,13 +17,13 @@ import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.AxeItem;
-import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.HoeItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.PickaxeItem;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.ShovelItem;
 import net.minecraft.world.item.SwordItem;
+import net.minecraftforge.common.ForgeSpawnEggItem;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
@@ -32,6 +35,10 @@ public class Things {
 	
 	public static final RegistryObject<Item> ASH = THINGS.register("ash",
 			()-> new Item(new Item.Properties().tab(Breds.BRED_CTTU_THINGS)));
+	public static final RegistryObject<Item> TWO_M = THINGS.register("twom", 
+			()-> new Item(new Item.Properties().tab(Breds.BRED_CTTU_THINGS).fireResistant()));
+	public static final RegistryObject<Item> THREE_M = THINGS.register("threem", 
+			()-> new Item(new Item.Properties().tab(Breds.BRED_CTTU_THINGS).fireResistant()));
 	public static final RegistryObject<Item> STEEL_INGOT = THINGS.register("steel_ingot", 
 			()-> new Item(new Item.Properties().tab(Breds.BRED_CTTU_THINGS)));
 	
@@ -73,14 +80,9 @@ public class Things {
 	public static final RegistryObject<Item> ARE_SHOES = THINGS.register("are_shoes",
 			()-> new ArmorItem(AmetesHirstAre.ARE, EquipmentSlot.FEET, new Item.Properties().tab(Breds.BRED_CTTU_FIGHTING)));
 	
-	public static final RegistryObject<Item> TWO_M = THINGS.register("twom", 
-			()-> new Item(new Item.Properties().tab(Breds.BRED_CTTU_THINGS).fireResistant()));
-	public static final RegistryObject<Item> THREE_M = THINGS.register("threem", 
-			()-> new Item(new Item.Properties().tab(Breds.BRED_CTTU_THINGS).fireResistant()));
-	
 	public static final RegistryObject<Item> OOZER = THINGS.register("oozer", 
 			()-> new Oozer(new Item.Properties().tab(Breds.BRED_CTTU_THINGS)));
-	public static final RegistryObject<FurtheredThing> FURTHERED_THING = THINGS.register("furthered_thing", 
+	public static final RegistryObject<FurtheredThing> LIGHT_THING = THINGS.register("light_thing", 
 			()-> new FurtheredThing(new Item.Properties().tab(Breds.BRED_CTTU_THINGS).fireResistant()));
 	public static final RegistryObject<AmarkBat> AMARK_BAT = THINGS.register("amark_bat", 
 			()-> new AmarkBat(new Item.Properties().tab(Breds.BRED_CTTU_THINGS).rarity(Rarity.RARE)));
@@ -96,8 +98,12 @@ public class Things {
 	public static final RegistryObject<Item> RIND_FOOD = THINGS.register("rind_food", 
 			()-> new RindFood(new Item.Properties().tab(Breds.BRED_CTTU_THINGS).food(new FoodProperties.Builder().nutrition(1).fast().build())));
 	
-	public static final RegistryObject<BlockItem> GLEAM_CLEAT = THINGS.register("gleam_cleat", 
-			()-> new BlockItem(Cleats.GLEAM_CLEAT.get(), new Item.Properties().tab(Breds.BRED_CTTU_CLEATS)));
-	public static final RegistryObject<BlockItem> UPWISE_HALFCLEAT_OAK = THINGS.register("uw_hc_oak",
-			()-> new BlockItem(Cleats.UPWISE_HALFCLEAT_OAK.get(), new Item.Properties().tab(Breds.BRED_CTTU_CLEATS)));
+	//WONTED
+	public static final RegistryObject<ForgeSpawnEggItem> SPIKE_SLIME_MAKING_EY = THINGS.register("spike_slime_making_ey", 
+			() -> new ForgeSpawnEggItem(Wights.SPIKE_SLIME, 0x631b3d, 0xebadc9, new Item.Properties().tab(Breds.BRED_CTTU_WIGHTS)));
+	public static final RegistryObject<ForgeSpawnEggItem> DWELLER_GHOST_MAKING_EY = THINGS.register("dweller_ghost_making_ey", 
+			() -> new ForgeSpawnEggItem(Wights.DWELLER_GHOST, 0x20a3b3, 0x18e5ff, new Item.Properties().tab(Breds.BRED_CTTU_WIGHTS)));
+/*	//ITH
+	public static final RegistryObject<ForgeSpawnEggItem> HIRST_DELVER_MAKING_EY = THINGS.register("hirsten_delver_making_ey", 
+			()-> new ForgeSpawnEggItem(Wights.HIRST_DELVER, 0x3b3b3b, 0x225296, new Item.Properties().tab(Breds.BRED_CTTU_WIGHTS))); */
 }
