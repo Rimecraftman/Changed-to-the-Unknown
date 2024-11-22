@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "changed:orange"
+    }
+  ],
+  "result": {
+    "item": "changedttu:rind_food",
+    "count": 2
+  }
+}

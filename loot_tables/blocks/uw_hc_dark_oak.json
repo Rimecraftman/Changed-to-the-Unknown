@@ -1,0 +1,22 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "changedttu:uw_hc_dark_oak",
+            "conditions": [
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "count": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
