@@ -1,6 +1,0 @@
-oxidized_cut_copper = diamond_ore; lapis_ore
-prismarine_wall = emerald_ore; gold_ore
-red_sandstone_wall = redstone_ore; copper_ore
-end_stone_brick_wall = iron_ore; coal_ore
-
-77 60 -507
